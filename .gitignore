@@ -1,0 +1,8 @@
+#ignore .idea folder
+.idea/
+
+#ignore venv folder
+/venv
+
+#ignore pickled model
+ml-deploy/models/kmeans_model.pkl
